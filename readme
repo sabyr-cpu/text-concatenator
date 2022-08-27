@@ -1,0 +1,4 @@
+- create an inputfiles directory in the same directory as main.py
+- add as many files as you  want to inputfiles directory
+- execute main.py
+- result will appear in out/output.txt
